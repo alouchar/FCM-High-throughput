@@ -1,10 +1,3 @@
----
-title: "Flow Cytometry Pipeline for automated traits analysis"
-author: Arnaud Louchart & Dedmer Van de Waal
-date: 04 August 2023
-output: html_document
----
-
 ### Description
 
 Exploration of density curve extracted from the histograms indicates you whether your data should be transformed or not. Here, we display the same histograms as previously and give you the choice of the transformation to apply to your data.
