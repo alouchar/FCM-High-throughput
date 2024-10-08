@@ -1,10 +1,3 @@
----
-title: "Flow Cytometry Pipeline for automated traits analysis"
-author: Arnaud Louchart & Dedmer Van de Waal
-date: 31 July 2023
-output: html_document
----
-
 ### Description
 
 This programme aims to sort automatedly flow cytometry traits through a user friendly graphical interface. The application provide basic but complete pipeline for flow cytometry data, from QA-QC to unsupervised classifications.
