@@ -24,6 +24,8 @@ To launch the Graphical User Interface of PhytoCytoTraits, run these command lin
 
 ## General workflow
 
+![Workflow PhytoCytoTraits](https://github.com/user-attachments/assets/568501fd-da34-4a9a-aa4a-a697b34839da)
+
 ## Funding
 
 This programme has been developped by Arnaud Louchart and Dedmer Van de Waal in the frame of BloomTox project. BloomTox project has been funded by the European Union (ERC, BLOOMTOX, 101044452). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.
