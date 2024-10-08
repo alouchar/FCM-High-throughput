@@ -1,10 +1,3 @@
----
-title: "Flow Cytometry Pipeline for automated traits analysis"
-author: Arnaud Louchart & Dedmer Van de Waal
-date: 03 August 2023
-output: html_document
----
-
 ### Explanations
 
 Some definition to help interpreting the histograms. Typically, distribution are by Kurtosis and Skewness.
