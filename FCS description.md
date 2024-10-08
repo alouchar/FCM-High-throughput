@@ -1,10 +1,3 @@
----
-title: "Flow Cytometry Pipeline for automated traits analysis"
-author: Arnaud Louchart & Dedmer Van de Waal
-date: 31 July 2023
-output: html_document
----
-
 ### Description
 
 The programme starts with the data importation. On top of this box you will find a button to load your file. At present, the script requires one[^1] flow cytometry file of the *.fcs* extension. You may see error printed on screen before the importation of the file. These errors should disappear once the file is loaded.
