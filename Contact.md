@@ -2,4 +2,4 @@
 
 **Arnaud Louchart** is a post-doctoral researcher at the Netherlands Institute of Ecology (NIOO-KNAW). He has 7 years of experience with flow cytometry and phytoplankton.
 
-If you have any query about this programme, you can contact us using the email address below: [D.vandeWall\@nioo.knaw.nl](mailto:D.vandeWall@nioo.knaw.nl){.email} & [A.Louchart\@nioo.knaw.nl](mailto:A.Louchart@nioo.knaw.nl){.email}
+If you have any query about this programme, you can contact us using the email address below: [D.vandeWaal\@nioo.knaw.nl](mailto:D.vandeWall@nioo.knaw.nl) & [A.Louchart\@nioo.knaw.nl](mailto:A.Louchart@nioo.knaw.nl)
