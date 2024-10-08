@@ -1,4 +1,4 @@
-# FCM-High-throughput
+# PhytoCytoTraits
 
 This programme aims to sort automatedly flow cytometry traits through a user friendly graphical interface. The application provide basic but complete pipeline for flow cytometry data, from QA-QC to unsupervised classifications.
 
