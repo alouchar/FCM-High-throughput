@@ -1,10 +1,3 @@
----
-title: "Flow Cytometry Pipeline for automated traits analysis"
-author: Arnaud Louchart, Suzanne Wiezer & Dedmer Van de Waal
-date: 1st September 2023
-output: html_document
----
-
 ### Description
 
 Quality Control procedure is a mandatory step for FAIR (Findability, Accessibility, Interoperability and Reuse) data. We propose to the user to investigate machine quality control through **beads** and **blanc** **files** prior starting analysing their data. This step is not mandatory but it is highly recommanded. You can skip this step, it will not interfer on the analytical procedure.
