@@ -20,6 +20,8 @@ To launch the Graphical User Interface of PhytoCytoTraits, run these command lin
 
 *shinyApp(ui, server)*
 
+![Graphical Use Interface](https://github.com/user-attachments/assets/e65b06ba-877d-407b-a27d-846eeccc40ab)
+
 ## General workflow
 
 ## Funding
