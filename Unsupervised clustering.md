@@ -1,9 +1,4 @@
----
-title: "Flow Cytometry Pipeline for automated traits analysis"
-author: Arnaud Louchart & Dedmer Van de Waal
-date: 02 October 2023
-output: html_document
----
+### Description
 
 Several methods are available to cluster your datasets.
 
